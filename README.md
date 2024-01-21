@@ -3,5 +3,5 @@ input is Homogenous matrices
 
 
 DEMO:
-to run a demo, run the main.py in src
+feel free to run the demo at main.py in src
 ![demo](https://github.com/hariharan382/Twist-based-forward-dynamics/assets/47359638/7070a5d1-1e66-4a12-9460-cedc0b18b421)
